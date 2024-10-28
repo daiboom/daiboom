@@ -43,7 +43,6 @@ Welcome to my GitHub profile! I'm a seasoned **Frontend Developer** with over **
 - 🌱 **Learning**: Always exploring new tech stacks and frameworks to stay ahead
 
 ---
-
 ## 📈 Professional Experience
 ### **X-Factor IT Solutions** (April 2024 - Present)  
 **Frontend Developer**  
@@ -64,6 +63,13 @@ Welcome to my GitHub profile! I'm a seasoned **Frontend Developer** with over **
 - Developed an OCR authoring tool using **Vue.js**
 - Built frontend core components for an integrated management tool with **React.js**
 - **Tech Stack**: Vue, Vuex, React, Redux, TypeScript, SCSS, AJAX
+
+### **SnetSystem** (September 2019 - November 2021)  
+**Frontend Developer**  
+- Developed a **Cloud Monitoring Solution** frontend using **React.js** to provide real-time data visualization and alert management.
+- Worked with **Redux** and **Redux-thunk** for state management and asynchronous actions.
+- Utilized **SCSS** for modular and maintainable styling across various dashboard components.
+- **Tech Stack**: React.js, Redux, Redux-thunk, TypeScript, SCSS
 
 ---
 
@@ -86,8 +92,9 @@ Welcome to my GitHub profile! I'm a seasoned **Frontend Developer** with over **
 ## 🚀 Goals & Interests
 I'm passionate about **modern web development**, AI applications, and **collaborative projects**. I strive to create intuitive user experiences and robust software solutions. Feel free to reach out if you'd like to **collaborate** or chat about **frontend technologies** and **AI-driven development**!
 
-📫 **Reach me**: [chleoqja1760@gmail.com](chleoqja1760@gmail.com)
+📫 **Reach me**: [chleoqja1760@gmail.com](mailto:chleoqja1760@gmail.com)
 
 ---
 
 Thanks for visiting my profile! 😊
+
